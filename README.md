@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Lunagariya</h1>
-<h3 align="center">Full-Stack Web Developer (MERN) | BCA Student</h3>
+<h3 align="center">BCA Student @ S.S. Agrawal College | MERN Stack Developer | AI Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karanlunagariya1727&label=Profile%20views&color=0e75b6&style=flat" alt="karanlunagariya1727" />
